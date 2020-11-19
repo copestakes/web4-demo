@@ -8,3 +8,11 @@ body {
     width: 80%;
     margin: 0 auto;
 }
+
+.hero {
+    height: 100vh;
+    background: mediumaquamarine;
+}
+h2 {
+    color: blue;
+}
